@@ -78,8 +78,8 @@ Now, if you wanna try to do this... please read the warnings below first:
   - You will get an unsafe certificate warning. Click past the warning or install the [Vast cert](https://vast.ai/static/jvastai_root.cer).
 - Click `Notebook -> Python 3` (You can do this next step a number of ways, but I typically do this)
   - ![img.png](readme-images/vast-ai-step4-get-repo.png)
-- Clone Joe's repo with this command
-  - `!git clone https://github.com/JoePenna/Dreambooth-Stable-Diffusion.git`
+- Clone repo with this command
+  - `!git clone https://github.com/moimart/Dreambooth-Stable-Diffusion.git`
   - Click `run`
   - ![img.png](readme-images/vast-ai-step5-clone-repo.png)
 - Navigate into the new `Dreambooth-Stable-Diffusion` directory on the left and open the `dreambooth_runpod_joepenna.ipynb` file
